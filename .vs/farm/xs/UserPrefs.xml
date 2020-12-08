@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{5711076D-8749-4A16-8A29-E794633C2FAE}|Default">
+  <MonoDevelop.Ide.ItemProperties.farm PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="farm/Pages/Products/EditProduct.cshtml">
+    <Files>
+      <File FileName="farm/Pages/Index.cshtml" Line="4" Column="47" />
+      <File FileName="farm/Pages/Index.cshtml.cs" Line="3" Column="17" />
+      <File FileName="farm/Pages/Shared/_Layout.cshtml" />
+      <File FileName="farm/Pages/_ViewStart.cshtml" Line="2" Column="5" />
+      <File FileName="farm/GetAllProducts.cshtml" Line="4" Column="5" />
+      <File FileName="farm/Pages/Products/CreateProduct.cshtml" Line="44" Column="37" />
+      <File FileName="farm/EditProduct.cshtml" Line="20" Column="32" />
+      <File FileName="farm/Pages/Orders/GetAllOrders.cshtml" Line="22" Column="32" />
+      <File FileName="farm/Pages/Dashboard.cshtml" Line="20" Column="32" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="farm" expanded="True">
+            <Node name="farm" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Orders" expanded="True">
+                  <Node name="GetAllOrders.cshtml" expanded="True" />
+                </Node>
+                <Node name="Products" expanded="True">
+                  <Node name="EditProduct.cshtml" expanded="True" selected="True" />
+                </Node>
+                <Node name="Dashboard.cshtml" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
