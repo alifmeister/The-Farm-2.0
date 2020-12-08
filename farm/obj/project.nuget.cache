@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jwh8fh+BjXj3pEU0SxqGp6MYsgM+TVPd9Y+yegHpuYIqiWEZMPf0Uri6/sh25CPgW+Scq8+689PmYfMXHce3HA==",
+  "dgSpecHash": "a8aK7x5cgJv63OCOoal1jpnBE1p08u/FQ8XjhcJCK5aPdgOdPdv+jWLeLToVTLNEzeC6AI/XrJaRSxhcRvlyag==",
   "success": true,
-  "projectFilePath": "/Users/zdenekpasek/Projects/farm/farm/farm.csproj",
+  "projectFilePath": "/Users/zdenekpasek/www/The-Farm-2.0/farm/farm.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

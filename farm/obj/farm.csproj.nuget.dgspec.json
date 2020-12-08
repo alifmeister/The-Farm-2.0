@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zdenekpasek/Projects/farm/farm/farm.csproj": {}
+    "/Users/zdenekpasek/www/The-Farm-2.0/farm/farm.csproj": {}
   },
   "projects": {
-    "/Users/zdenekpasek/Projects/farm/farm/farm.csproj": {
+    "/Users/zdenekpasek/www/The-Farm-2.0/farm/farm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zdenekpasek/Projects/farm/farm/farm.csproj",
+        "projectUniqueName": "/Users/zdenekpasek/www/The-Farm-2.0/farm/farm.csproj",
         "projectName": "farm",
-        "projectPath": "/Users/zdenekpasek/Projects/farm/farm/farm.csproj",
+        "projectPath": "/Users/zdenekpasek/www/The-Farm-2.0/farm/farm.csproj",
         "packagesPath": "/Users/zdenekpasek/.nuget/packages/",
-        "outputPath": "/Users/zdenekpasek/Projects/farm/farm/obj/",
+        "outputPath": "/Users/zdenekpasek/www/The-Farm-2.0/farm/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/zdenekpasek/.config/NuGet/NuGet.Config"
